@@ -1,0 +1,11 @@
+{
+  "version": "0.4.7",
+  "notes": "Voiceo 0.4.7 updates with one click: an Update button appears when a new version is ready.",
+  "pub_date": "2026-11-08T10:23:14.264Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdGpaUktRNUdMTmt3M2V1VzR4NzE1ZzlMR0h6SmhPSnl6WFg3by84akhHOWlLYWF1MFpkRFFQSjZhUEs5SGdoUnRncE1PSVQ5YncwWlFLS3Z1NURtRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMzNzE2CWZpbGU6Vm9pY2VvLTAuNC43LWFhcmNoNjQuYXBwLnRhci5negoyajhOTHplNmpFZFdMcEJwQkxHWGVzZzRmR2tSLzZ3dTV0YWhDRGM2TFJ5QTFYTmxpdVBlS05LVjF5SUg3NEJqQ0FhV2FUNy9BYk1hSlFYZXRjR3FDZz09Cg==",
+      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.7/Voiceo-0.4.7-aarch64.app.tar.gz"
+    }
+  }
+}
