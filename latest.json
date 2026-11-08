@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "notes": "Voiceo 0.4.8 adds a backup update address and shows Meetings as coming soon.",
-  "pub_date": "2026-11-08T11:32:56.626Z",
+  "version": "0.4.9",
+  "notes": "Voiceo 0.4.9 shows updates as a small button in the corner of the dashboard.",
+  "pub_date": "2026-11-08T13:05:53.953Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdGhLWmR4RWtwR01KUWUzMjdsVEVZZ3N4UkN0eWVjeGl1aXFtd0JmNVduTnJtQ1JmdjJ0dkZMbitJb1g2cmNKdWcwbWJOU0ZDRnhCT3JDdkZYWHVCTHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4MDMzCWZpbGU6Vm9pY2VvLTAuNC44LWFhcmNoNjQuYXBwLnRhci5negp6enlBZGR6WVp4RjZtWFY4VVA5T0pSWmI2Nm1SeS9XRTg4b05NV0ZNMDJxWWNNU3FDWHFzbGNKKzlzRnhYeDBsYmRCWTZoSFRBUDIxVTBlNVZ5c1NDZz09Cg==",
-      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.8/Voiceo-0.4.8-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdHBEZUlFbElubVRqa3BIU09BdnBGVlpZcGZML2gzVXhIVVE5YTRwNjZWSFZYb0VVdmZlR0taM1dMeVdsTnBkZjlaaWlPKzIxYlVWLzc4Qk9zbTlVYlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQzNjE0CWZpbGU6Vm9pY2VvLTAuNC45LWFhcmNoNjQuYXBwLnRhci5negpaVjZ2QlhkS09QeGh3QkhkOVRTNytRcWlEcm50bzRFV2xrdGhlclIxNFFTTWNRMVJaMktlWUdDS0U5cnhVbTRQdEpVTFlQdm5yWmFyK3NySXY3ZHZBUT09Cg==",
+      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.9/Voiceo-0.4.9-aarch64.app.tar.gz"
     }
   }
 }
