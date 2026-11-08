@@ -1,11 +1,11 @@
 {
-  "version": "0.4.9",
-  "notes": "Voiceo 0.4.9 shows updates as a small button in the corner of the dashboard.",
-  "pub_date": "2026-11-08T13:05:53.953Z",
+  "version": "0.4.10",
+  "notes": "Voiceo 0.4.10 keeps corrected email addresses intact in cleaned-up text.",
+  "pub_date": "2026-11-08T15:26:43.556Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdHBEZUlFbElubVRqa3BIU09BdnBGVlpZcGZML2gzVXhIVVE5YTRwNjZWSFZYb0VVdmZlR0taM1dMeVdsTnBkZjlaaWlPKzIxYlVWLzc4Qk9zbTlVYlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQzNjE0CWZpbGU6Vm9pY2VvLTAuNC45LWFhcmNoNjQuYXBwLnRhci5negpaVjZ2QlhkS09QeGh3QkhkOVRTNytRcWlEcm50bzRFV2xrdGhlclIxNFFTTWNRMVJaMktlWUdDS0U5cnhVbTRQdEpVTFlQdm5yWmFyK3NySXY3ZHZBUT09Cg==",
-      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.9/Voiceo-0.4.9-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdGttS0dzTDN2ZC9jdkozeU9OSlJVOEhjYllGamlJSnZ6d0Jwb3BzbGdMbUFnU0lsSTlWNEsxZ1JDTUFvZmFOU1NIQTNOSk00SVVZaUlEV2RSZElNSlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxOTM5CWZpbGU6Vm9pY2VvLTAuNC4xMC1hYXJjaDY0LmFwcC50YXIuZ3oKYlNhaVFYWVlsQ096bVNRTWwzUFhhZ212NUR3c1JIbWtueU9lTzVqQUlBcjJvM0dNVFJoVHVqaU4rdHhVQXk1QVBVaUJ6eHcxUEk2T214Qk1seVBYQ3c9PQo=",
+      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.10/Voiceo-0.4.10-aarch64.app.tar.gz"
     }
   }
 }
