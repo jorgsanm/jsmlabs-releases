@@ -1,11 +1,11 @@
 {
-  "version": "0.4.11",
-  "notes": "Voiceo 0.4.11 makes updates more resilient: it can restore the previous version if a new one fails to open.",
-  "pub_date": "2026-11-09T09:53:36.927Z",
+  "version": "0.4.12",
+  "notes": "Voiceo 0.4.12 adds Receive test versions in Settings, About, for early access to new versions.",
+  "pub_date": "2026-11-09T13:48:58.164Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdHZjbVc2QnJBanlGZzg2Q0x1WVZ1Tlg4aENyYzlDb1JFMDRTa0EyWTBNUk95a0FTYUdtWFBDdFJBTEY4MHRHaElTWTZxdDhKeUtkM0Z4YkFkZjlBNXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE4NTgxCWZpbGU6Vm9pY2VvLTAuNC4xMS1hYXJjaDY0LmFwcC50YXIuZ3oKaHhjdjlsL3VXUGNtaWxzaHlJNGZhRENGUTFtQm1hSVg1YlJKMS9Fdk91NnBPZnpwY21TK0FIWkUrTlZyN3FIdHM2cEplaVNaMUo5bDYrbksvQkFaQnc9PQo=",
-      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.11/Voiceo-0.4.11-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnV4cEV0NG1DdHNhdjRiRllCelRyanAvb1NZVHJIbFU0YW9vTTcwYk1MWUVkaE5pUXEyd3lNdUVFUktYTmVzL1EyUFdzTkZGb0x1aG8zVjZjYy9OdUlFem9SRVFVekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMyNDE4CWZpbGU6Vm9pY2VvLTAuNC4xMi1hYXJjaDY0LmFwcC50YXIuZ3oKdHl0cGxvSEZndHd3dWppUGpsT2xvaFpuRmNqWVZjcldIbE9BdlZ5UUl6RzFobk9PWkVpQm8zUWppOU5WK0NuNERuQmcrbUUxaWFLSGVncERxZkJmQkE9PQo=",
+      "url": "https://github.com/jorgsanm/jsmlabs-releases/releases/download/v0.4.12/Voiceo-0.4.12-aarch64.app.tar.gz"
     }
   }
 }
